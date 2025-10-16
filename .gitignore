@@ -1,0 +1,6 @@
+﻿*.json
+*.tar.gz
+.DS_Store
+.Rhistory
+initial_bulk/
+incremental/
